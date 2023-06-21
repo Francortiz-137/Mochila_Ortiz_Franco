@@ -1,0 +1,16 @@
+La IP privada y pública de la máquina virtual
+    IP Publica: 190.45.255.66
+    IP Privada: 192.168.189.129
+
+La dirección MAC
+    00:0c:29:14:42:3a
+
+¿Es diferente a la IP pública y privada de nuestra máquina host?
+    
+    Sí, la dirección IP pública y privada de una máquina virtual es diferente 
+    a la dirección IP pública y privada de la máquina host en la que se encuentra alojada. 
+    Cada máquina, tanto la virtual como la host, 
+    tiene sus propias direcciones IP públicas y privadas para la comunicación en Internet y 
+    en la red local.
+
+Subir este archivo a la mochila del viajero desde la máquina virtual
