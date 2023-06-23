@@ -6,7 +6,7 @@ La dirección MAC
     00:0c:29:14:42:3a
 
 ¿Es diferente a la IP pública y privada de nuestra máquina host?
-    
+.    
     Sí, la dirección IP pública y privada de una máquina virtual es diferente 
     a la dirección IP pública y privada de la máquina host en la que se encuentra alojada. 
     Cada máquina, tanto la virtual como la host, 
